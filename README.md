@@ -4,7 +4,7 @@ RUS++;
 Изучайте с++!  
 
   
-#include <iostream>//<<<это библиотеки(их очень мноого) этa дает вам потоки вывода и ввода (cout,cin)
+#include <iostream>//<<<это библиотеки(их очень мноого) этa дает вам потоки вывода и ввода (cout,cin)   
 using namespace std;//что-бы не писать все время std::cout std::cin
 
 int main()   
